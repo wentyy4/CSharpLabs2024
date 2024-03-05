@@ -1,0 +1,14 @@
+D:\c# 2\Pr_2\Pr_2\bin\Debug\net6.0\Pr_2.exe
+D:\c# 2\Pr_2\Pr_2\bin\Debug\net6.0\Pr_2.deps.json
+D:\c# 2\Pr_2\Pr_2\bin\Debug\net6.0\Pr_2.runtimeconfig.json
+D:\c# 2\Pr_2\Pr_2\bin\Debug\net6.0\Pr_2.dll
+D:\c# 2\Pr_2\Pr_2\bin\Debug\net6.0\Pr_2.pdb
+D:\c# 2\Pr_2\Pr_2\obj\Debug\net6.0\Pr_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# 2\Pr_2\Pr_2\obj\Debug\net6.0\Pr_2.AssemblyInfoInputs.cache
+D:\c# 2\Pr_2\Pr_2\obj\Debug\net6.0\Pr_2.AssemblyInfo.cs
+D:\c# 2\Pr_2\Pr_2\obj\Debug\net6.0\Pr_2.csproj.CoreCompileInputs.cache
+D:\c# 2\Pr_2\Pr_2\obj\Debug\net6.0\Pr_2.dll
+D:\c# 2\Pr_2\Pr_2\obj\Debug\net6.0\refint\Pr_2.dll
+D:\c# 2\Pr_2\Pr_2\obj\Debug\net6.0\Pr_2.pdb
+D:\c# 2\Pr_2\Pr_2\obj\Debug\net6.0\Pr_2.genruntimeconfig.cache
+D:\c# 2\Pr_2\Pr_2\obj\Debug\net6.0\ref\Pr_2.dll
