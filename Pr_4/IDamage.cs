@@ -1,7 +1,7 @@
 ﻿
 namespace GameMagic
 {
-    public interface IDamagebl
+    public interface IDamage
     {
         int Hp { get; set; }
         void TakeDamage(int damage);
