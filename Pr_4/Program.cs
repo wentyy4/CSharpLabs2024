@@ -8,8 +8,8 @@ namespace GameMagic
         {
             Console.OutputEncoding = UTF8Encoding.UTF8;
 
-            Character player1 = new Mage(100, new FireBall(10), "artem");
-            Character player2 = new Mage(100, new FireBall(10), "jhon");
+            Heroe player1 = new Mage(100, new FireBall(10), "artem");
+            Heroe player2 = new Mage(100, new FireBall(10), "jhon");
 
 
             Console.WriteLine();
