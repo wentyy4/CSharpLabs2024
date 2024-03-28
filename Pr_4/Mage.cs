@@ -2,7 +2,7 @@
 
 namespace GameMagic
 {
-    public class Mage : Character
+    public class Mage : Heroes
     {
         private ISpell _spell;
 
