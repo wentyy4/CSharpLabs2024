@@ -11,7 +11,7 @@ namespace GameMagic
             internal set => _damage = value;
         }
 
-        public void CauseDamage(IDamagebl damagebl)
+        public void CauseDamage(IDamage damage)
         {
             damagebl.TakeDamage(_damage);
         }
