@@ -1,12 +1,12 @@
 ﻿
 namespace GameMagic
 {
-    public abstract class Character : IDamagebl
+    public abstract class Character : IDamage
     {
         private int _hp;
         private string _name;
 
-        protected Character(string name)
+        protected Heroes(string name)
         {
             _name = name;
         }
@@ -30,6 +30,6 @@ namespace GameMagic
             Hp -= damage;
         }
 
-        public abstract void Attack(IDamagebl damagebl);
+        public abstract void Attack(IDamage damage);
     }
 }
