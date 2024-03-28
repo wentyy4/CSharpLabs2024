@@ -1,7 +1,7 @@
 ﻿
 namespace GameMagic
 {
-    public abstract class Character : IDamage
+    public abstract class Heroes : IDamage
     {
         private int _hp;
         private string _name;
