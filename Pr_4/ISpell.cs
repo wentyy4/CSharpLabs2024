@@ -5,6 +5,6 @@ namespace GameMagic
     {
         int Damage { get; }
 
-        void CauseDamage(IDamagebl damagebl);
+        void CauseDamage(IDamage damage);
     }
 }
