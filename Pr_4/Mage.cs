@@ -18,12 +18,12 @@ namespace GameMagic
             _spell = spell;
         }
 
-        public override void Attack(IDamagebl damagebl)
+        public override void Attack(IDamage damage)
         {
             if (damagebl.GetHashCode() == this.GetHashCode())
                 return;
-            Spell.CauseDamage(damagebl);
-            Mage mage = (Mage)damagebl;
+            Spell.CauseDamage(damage);
+            Mage mage = (Mage)damage;
             Console.WriteLine($"{Name} dealt damage: {mage.Name}");
         }
     }
