@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0443\u0440\u043E\u043A\u0438\\c# 2\\CSharpLabs2024\\Pr_4\\Pr_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9648F86-1D60-4330-B081-1FDACFF66FF2}|Pr_4\\Pr_4.csproj|e:\\\u0443\u0440\u043E\u043A\u0438\\c# 2\\csharplabs2024\\pr_4\\pr_4\\pr_4\\mages\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9648F86-1D60-4330-B081-1FDACFF66FF2}|Pr_4\\Pr_4.csproj|solutionrelative:pr_4\\mages\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9648F86-1D60-4330-B081-1FDACFF66FF2}|Pr_4\\Pr_4.csproj|e:\\\u0443\u0440\u043E\u043A\u0438\\c# 2\\csharplabs2024\\pr_4\\pr_4\\pr_4\\spells\\fireball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9648F86-1D60-4330-B081-1FDACFF66FF2}|Pr_4\\Pr_4.csproj|solutionrelative:pr_4\\spells\\fireball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9648F86-1D60-4330-B081-1FDACFF66FF2}|Pr_4\\Pr_4.csproj|e:\\\u0443\u0440\u043E\u043A\u0438\\c# 2\\csharplabs2024\\pr_4\\pr_4\\pr_4\\spells\\ispell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9648F86-1D60-4330-B081-1FDACFF66FF2}|Pr_4\\Pr_4.csproj|solutionrelative:pr_4\\spells\\ispell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9648F86-1D60-4330-B081-1FDACFF66FF2}|Pr_4\\Pr_4.csproj|e:\\\u0443\u0440\u043E\u043A\u0438\\c# 2\\csharplabs2024\\pr_4\\pr_4\\pr_4\\spells\\spell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9648F86-1D60-4330-B081-1FDACFF66FF2}|Pr_4\\Pr_4.csproj|solutionrelative:pr_4\\spells\\spell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9648F86-1D60-4330-B081-1FDACFF66FF2}|Pr_4\\Pr_4.csproj|e:\\\u0443\u0440\u043E\u043A\u0438\\c# 2\\csharplabs2024\\pr_4\\pr_4\\pr_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9648F86-1D60-4330-B081-1FDACFF66FF2}|Pr_4\\Pr_4.csproj|solutionrelative:pr_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9648F86-1D60-4330-B081-1FDACFF66FF2}|Pr_4\\Pr_4.csproj|e:\\\u0443\u0440\u043E\u043A\u0438\\c# 2\\csharplabs2024\\pr_4\\pr_4\\pr_4\\mages\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9648F86-1D60-4330-B081-1FDACFF66FF2}|Pr_4\\Pr_4.csproj|solutionrelative:pr_4\\mages\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9648F86-1D60-4330-B081-1FDACFF66FF2}|Pr_4\\Pr_4.csproj|e:\\\u0443\u0440\u043E\u043A\u0438\\c# 2\\csharplabs2024\\pr_4\\pr_4\\pr_4\\mages\\iattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9648F86-1D60-4330-B081-1FDACFF66FF2}|Pr_4\\Pr_4.csproj|solutionrelative:pr_4\\mages\\iattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9648F86-1D60-4330-B081-1FDACFF66FF2}|Pr_4\\Pr_4.csproj|e:\\\u0443\u0440\u043E\u043A\u0438\\c# 2\\csharplabs2024\\pr_4\\pr_4\\pr_4\\mages\\idamagebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9648F86-1D60-4330-B081-1FDACFF66FF2}|Pr_4\\Pr_4.csproj|solutionrelative:pr_4\\mages\\idamagebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAttack.cs",
+              "DocumentMoniker": "E:\\\u0443\u0440\u043E\u043A\u0438\\c# 2\\CSharpLabs2024\\Pr_4\\Pr_4\\Pr_4\\Mages\\IAttack.cs",
+              "RelativeDocumentMoniker": "Pr_4\\Mages\\IAttack.cs",
+              "ToolTip": "E:\\\u0443\u0440\u043E\u043A\u0438\\c# 2\\CSharpLabs2024\\Pr_4\\Pr_4\\Pr_4\\Mages\\IAttack.cs",
+              "RelativeToolTip": "Pr_4\\Mages\\IAttack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:18:26.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDamagebl.cs",
+              "DocumentMoniker": "E:\\\u0443\u0440\u043E\u043A\u0438\\c# 2\\CSharpLabs2024\\Pr_4\\Pr_4\\Pr_4\\Mages\\IDamagebl.cs",
+              "RelativeDocumentMoniker": "Pr_4\\Mages\\IDamagebl.cs",
+              "ToolTip": "E:\\\u0443\u0440\u043E\u043A\u0438\\c# 2\\CSharpLabs2024\\Pr_4\\Pr_4\\Pr_4\\Mages\\IDamagebl.cs",
+              "RelativeToolTip": "Pr_4\\Mages\\IDamagebl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:18:14.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISpell.cs",
+              "DocumentMoniker": "E:\\\u0443\u0440\u043E\u043A\u0438\\c# 2\\CSharpLabs2024\\Pr_4\\Pr_4\\Pr_4\\Spells\\ISpell.cs",
+              "RelativeDocumentMoniker": "Pr_4\\Spells\\ISpell.cs",
+              "ToolTip": "E:\\\u0443\u0440\u043E\u043A\u0438\\c# 2\\CSharpLabs2024\\Pr_4\\Pr_4\\Pr_4\\Spells\\ISpell.cs",
+              "RelativeToolTip": "Pr_4\\Spells\\ISpell.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:17:55.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "E:\\\u0443\u0440\u043E\u043A\u0438\\c# 2\\CSharpLabs2024\\Pr_4\\Pr_4\\Pr_4\\Mages\\Mage.cs",
+              "RelativeDocumentMoniker": "Pr_4\\Mages\\Mage.cs",
+              "ToolTip": "E:\\\u0443\u0440\u043E\u043A\u0438\\c# 2\\CSharpLabs2024\\Pr_4\\Pr_4\\Pr_4\\Mages\\Mage.cs",
+              "RelativeToolTip": "Pr_4\\Mages\\Mage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:17:05.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fireball.cs",
+              "DocumentMoniker": "E:\\\u0443\u0440\u043E\u043A\u0438\\c# 2\\CSharpLabs2024\\Pr_4\\Pr_4\\Pr_4\\Spells\\Fireball.cs",
+              "RelativeDocumentMoniker": "Pr_4\\Spells\\Fireball.cs",
+              "ToolTip": "E:\\\u0443\u0440\u043E\u043A\u0438\\c# 2\\CSharpLabs2024\\Pr_4\\Pr_4\\Pr_4\\Spells\\Fireball.cs",
+              "RelativeToolTip": "Pr_4\\Spells\\Fireball.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:32:34.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Spell.cs",
+              "DocumentMoniker": "E:\\\u0443\u0440\u043E\u043A\u0438\\c# 2\\CSharpLabs2024\\Pr_4\\Pr_4\\Pr_4\\Spells\\Spell.cs",
+              "RelativeDocumentMoniker": "Pr_4\\Spells\\Spell.cs",
+              "ToolTip": "E:\\\u0443\u0440\u043E\u043A\u0438\\c# 2\\CSharpLabs2024\\Pr_4\\Pr_4\\Pr_4\\Spells\\Spell.cs",
+              "RelativeToolTip": "Pr_4\\Spells\\Spell.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:32:28.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Character.cs",
+              "DocumentMoniker": "E:\\\u0443\u0440\u043E\u043A\u0438\\c# 2\\CSharpLabs2024\\Pr_4\\Pr_4\\Pr_4\\Mages\\Character.cs",
+              "RelativeDocumentMoniker": "Pr_4\\Mages\\Character.cs",
+              "ToolTip": "E:\\\u0443\u0440\u043E\u043A\u0438\\c# 2\\CSharpLabs2024\\Pr_4\\Pr_4\\Pr_4\\Mages\\Character.cs",
+              "RelativeToolTip": "Pr_4\\Mages\\Character.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:31:33.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u0443\u0440\u043E\u043A\u0438\\c# 2\\CSharpLabs2024\\Pr_4\\Pr_4\\Pr_4\\Program.cs",
+              "RelativeDocumentMoniker": "Pr_4\\Program.cs",
+              "ToolTip": "E:\\\u0443\u0440\u043E\u043A\u0438\\c# 2\\CSharpLabs2024\\Pr_4\\Pr_4\\Pr_4\\Program.cs",
+              "RelativeToolTip": "Pr_4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:02:07.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

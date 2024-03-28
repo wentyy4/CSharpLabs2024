@@ -1,0 +1,15 @@
+E:\уроки\c# 2\CSharpLabs2024\Pr_4\Pr_4\Pr_4\bin\Debug\net8.0\Pr_4.exe
+E:\уроки\c# 2\CSharpLabs2024\Pr_4\Pr_4\Pr_4\bin\Debug\net8.0\Pr_4.deps.json
+E:\уроки\c# 2\CSharpLabs2024\Pr_4\Pr_4\Pr_4\bin\Debug\net8.0\Pr_4.runtimeconfig.json
+E:\уроки\c# 2\CSharpLabs2024\Pr_4\Pr_4\Pr_4\bin\Debug\net8.0\Pr_4.dll
+E:\уроки\c# 2\CSharpLabs2024\Pr_4\Pr_4\Pr_4\bin\Debug\net8.0\Pr_4.pdb
+E:\уроки\c# 2\CSharpLabs2024\Pr_4\Pr_4\Pr_4\obj\Debug\net8.0\Pr_4.GeneratedMSBuildEditorConfig.editorconfig
+E:\уроки\c# 2\CSharpLabs2024\Pr_4\Pr_4\Pr_4\obj\Debug\net8.0\Pr_4.AssemblyInfoInputs.cache
+E:\уроки\c# 2\CSharpLabs2024\Pr_4\Pr_4\Pr_4\obj\Debug\net8.0\Pr_4.AssemblyInfo.cs
+E:\уроки\c# 2\CSharpLabs2024\Pr_4\Pr_4\Pr_4\obj\Debug\net8.0\Pr_4.csproj.CoreCompileInputs.cache
+E:\уроки\c# 2\CSharpLabs2024\Pr_4\Pr_4\Pr_4\obj\Debug\net8.0\Pr_4.sourcelink.json
+E:\уроки\c# 2\CSharpLabs2024\Pr_4\Pr_4\Pr_4\obj\Debug\net8.0\Pr_4.dll
+E:\уроки\c# 2\CSharpLabs2024\Pr_4\Pr_4\Pr_4\obj\Debug\net8.0\refint\Pr_4.dll
+E:\уроки\c# 2\CSharpLabs2024\Pr_4\Pr_4\Pr_4\obj\Debug\net8.0\Pr_4.pdb
+E:\уроки\c# 2\CSharpLabs2024\Pr_4\Pr_4\Pr_4\obj\Debug\net8.0\Pr_4.genruntimeconfig.cache
+E:\уроки\c# 2\CSharpLabs2024\Pr_4\Pr_4\Pr_4\obj\Debug\net8.0\ref\Pr_4.dll
